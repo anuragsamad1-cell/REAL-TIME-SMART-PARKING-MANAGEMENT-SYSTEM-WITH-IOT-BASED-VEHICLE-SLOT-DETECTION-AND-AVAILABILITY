@@ -1,0 +1,2 @@
+# REAL-TIME-SMART-PARKING-MANAGEMENT-SYSTEM-WITH-IOT-BASED-VEHICLE-SLOT-DETECTION-AND-AVAILABILITY
+This internship report provides a comprehensive overview of my internship project focused on developing a Real-Time Smart Parking Management System with IoT-Based Vehicle Slot Detection and Availability Monitoring. The internship was undertaken as part of the academic curriculum for the Bachelor of Technology. The primary objective 
